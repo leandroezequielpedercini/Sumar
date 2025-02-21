@@ -7,7 +7,9 @@
 @media  (max-width: 500px){
 
 }
-
+    body{
+        background-color: red;
+    }
 
 .cabezal{
     background-color:rgb(252, 206, 120);
