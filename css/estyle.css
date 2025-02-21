@@ -18,6 +18,7 @@
     text-decoration-line: underline;
     margin-top: 0.5%;
     
+    
 }
 
 h1{
@@ -30,7 +31,8 @@ h1{
     padding-top: 2%;    
     font-size: 250%;
     background-color: rgb(255, 225, 168);
-    font-size: 260%;    
+    font-size: 260%;
+    border: solid 5px;    
 }
 
 .numero2{
