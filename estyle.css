@@ -26,7 +26,20 @@
 h1{
         font-size: 350%;
         text-align: center;
+        animation-name: titulo-suma;
+        animation-duration: 5s ;
     }
+
+
+    @keyframes titulo-suma {
+        100%{
+            scale: 200%;
+    
+        }
+
+        
+    }
+
 
 .formulario{
     text-align: center;
@@ -126,3 +139,5 @@ h1{
     
 
 }
+
+
